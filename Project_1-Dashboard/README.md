@@ -1,4 +1,4 @@
-# Excel Salary Dashboard
+# My Excel Salary Dashboard Project
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/a209400f-8c44-440b-ba92-53bb0facedb7)  
 ## Introduction  
